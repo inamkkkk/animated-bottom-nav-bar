@@ -1,0 +1,21 @@
+# Flutter/Dart related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugin-dependencies
+.metadata
+build/
+
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Editor related files #
+#######################
+.idea/
+.vscode/
+*.iml
+
+# Miscellaneous
+*.log
